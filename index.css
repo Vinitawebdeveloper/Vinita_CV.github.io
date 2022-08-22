@@ -19,10 +19,8 @@ body{
 .container{
     position: relative;
     width: 100%;
-    max-width: 1000px;
     min-height: 1000px;
     background-color: azure;
-    margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 35px rgba(0,0,0,0.1);
